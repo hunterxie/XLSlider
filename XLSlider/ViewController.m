@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self setupUIType:1];
+    [self setupUIType:2];
    
     // Do any additional setup after loading the view, typically from a nib.
 }
